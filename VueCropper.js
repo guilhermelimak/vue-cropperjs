@@ -1,5 +1,5 @@
 var Vue = require('vue');
-var omit = require('lodash/omit');
+var omit = require('lodash.omit');
 var Cropper = require('cropperjs').default;
 require('cropperjs/dist/cropper.css');
 
